@@ -11,11 +11,7 @@ class PlayerCharacter:
   
   def __init__(self,name='anaonymous',age=0):
    # if (self.memebership):
-    if (age>18):
-    # eleif(PlayerCharacter.memebership):
-     self.age=age   # Dynamic attributes
-    self.name=name
-
+    
     def shout(self):
      print(f'hello my name is {self.name}')
      return 'done'
