@@ -5,5 +5,5 @@ Created on Wed Feb 16 19:54:25 2022
 @author: HP
 """
 
-class A :
+cla
     num= 1

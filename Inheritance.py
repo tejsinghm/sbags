@@ -7,7 +7,7 @@ Created on Sat Feb 12 19:56:42 2022
 
 # Concept of Private & Public: In python we just _ to keep private
 # Concept of Inheritance
-# class user():
+# class u
 #    de sign_in(self):
 #     print(" logged in")
     
